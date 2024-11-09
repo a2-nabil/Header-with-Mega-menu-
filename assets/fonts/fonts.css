@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "DIN W05 Cond Bold";
+  src: url("./afc44321-9b59-4a13-9352-2ceca0a144b6.woff2") format("woff2"),
+    url("./f3ba2a48-9a09-417b-9ab6-ba31aa5197ee.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "DIN W05 Cond Light";
+  src: url("./c061f2c8-3c92-4f54-8684-febb8f329658.woff2") format("woff2"),
+    url("./5b413aac-e015-4386-89f6-f866ab4821c8.woff") format("woff");
+
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "DIN W05 Light";
+  src: url("./2399aa4b-cb92-48c7-af8b-620c8bcbfe55.woff2") format("woff2"),
+    url("./194026c7-a758-4dea-9557-afcc8d05a00d.woff") format("woff");
+
+  font-display: swap;
+}
